@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-  <title>Ryoui的博客</title>
-  <subtitle>我是程序猿，我为自己代言。</subtitle>
+  <title>Ryoui&#39;s Note</title>
+  <subtitle>我是Ryoui，我喂自己袋盐。</subtitle>
   <link href="/atom.xml" rel="self"/>
   
   <link href="http://blog.ryoui.me/"/>
@@ -10,7 +10,7 @@
   
   <author>
     <name>Ryoui</name>
-    
+    <email>soscx@vip.qq.com</email>
   </author>
   
   <generator uri="http://hexo.io/">Hexo</generator>
